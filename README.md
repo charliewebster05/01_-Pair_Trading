@@ -1,9 +1,7 @@
-##01_-Pair_Trading
-This project implements a simple pairs trading strategy using two highly correlated stocks (e.g., GOOGL and MSFT). It uses z-score-based signals to identify long/short entry points and evaluates performance with a backtested equity curve.
+##About me 
+Hello github, after developing an interest into financial python, I thought it was time to make a project. With a background in finance, I found it enjoyeable to contrast my knowledge and interest in finance to challenge myself to try and build something in python, something I haven't done before. Please feel free to drop improvements to my code, it'd be great to hear feedback.
 
-#£About me 
-After developing an interest into financial python, I thought I'd make this my first project and showcase my interest to the wider community. This project was very fun and challenging and to those who view the code, feel free to give me some advice!
-
+##Description
 
 ##Pairs Trading Strategy Backtest
 
